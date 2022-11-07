@@ -1,0 +1,57 @@
+[
+     {
+          "id": 1,
+          "origen_x": 10,
+          "origen_y": 200,
+          "destino_x": 300,
+          "destino_y": 400,
+          "velocidad": 60,
+          "red": 30,
+          "green": 1,
+          "blue": 1
+     },
+     {
+          "id": 2,
+          "origen_x": 2,
+          "origen_y": 34,
+          "destino_x": 3,
+          "destino_y": 8,
+          "velocidad": 56,
+          "red": 45,
+          "green": 4,
+          "blue": 7
+     },
+     {
+          "id": 3,
+          "origen_x": 100,
+          "origen_y": 90,
+          "destino_x": 80,
+          "destino_y": 70,
+          "velocidad": 60,
+          "red": 50,
+          "green": 40,
+          "blue": 30
+     },
+     {
+          "id": 4,
+          "origen_x": 1,
+          "origen_y": 2,
+          "destino_x": 3,
+          "destino_y": 4,
+          "velocidad": 5,
+          "red": 6,
+          "green": 7,
+          "blue": 8
+     },
+     {
+          "id": 5,
+          "origen_x": 10,
+          "origen_y": 20,
+          "destino_x": 30,
+          "destino_y": 40,
+          "velocidad": 50,
+          "red": 60,
+          "green": 70,
+          "blue": 80
+     }
+]
